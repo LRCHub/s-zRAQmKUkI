@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Trouble Maker",
   "base_artist": "Trouble Maker",
-  "createdAt": "2026-03-26T13:51:27.748932Z",
+  "createdAt": "2026-03-26T13:53:59.302497Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -275,6 +275,15 @@
       "artist": "Trouble Maker",
       "has_synced": false,
       "path": "select/pl_01_Trouble_Maker_Trouble_Maker.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Trouble Maker",
+      "artist": "Trouble Maker",
+      "has_synced": false,
+      "path": "select/localdb_01_Trouble_Maker_Trouble_Maker.txt",
+      "repo_name": "s-zRAQmKUkI"
     }
   ]
 }
