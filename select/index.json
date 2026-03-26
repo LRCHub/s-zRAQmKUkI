@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "Trouble Maker",
+  "base_artist": "Trouble Maker",
+  "createdAt": "2026-03-26T13:50:13.892551Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "An Intimate Close Up Of A Street Punk Trouble Maker",
+      "artist": "Rancid",
+      "has_synced": false,
+      "path": "select/01_An_Intimate_Close_Up_Of_A_Street_Punk_Trouble_Maker_Rancid.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trouble Maker",
+      "artist": "Trouble",
+      "has_synced": false,
+      "path": "select/02_Trouble_Maker_Trouble.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "trouble maker",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/03_trouble_maker_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Trouble Maker",
+      "artist": "Miki Matsubara",
+      "has_synced": false,
+      "path": "select/04_Trouble_Maker_Miki_Matsubara.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trouble Maker",
+      "artist": "Matsubara, Miki",
+      "has_synced": false,
+      "path": "select/05_Trouble_Maker_Matsubara,_Miki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trouble Maker (Live)",
+      "artist": "Olly Murs",
+      "has_synced": false,
+      "path": "select/06_Trouble_Maker_(Live)_Olly_Murs.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trouble Maker",
+      "artist": "Trouble Maker",
+      "has_synced": true,
+      "path": "select/07_Trouble_Maker_Trouble_Maker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Trouble Maker",
+      "artist": "LANCO",
+      "has_synced": false,
+      "path": "select/08_Trouble_Maker_LANCO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shes A Trouble Maker",
+      "artist": "Joan Baez",
+      "has_synced": false,
+      "path": "select/09_Shes_A_Trouble_Maker_Joan_Baez.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Trouble Maker",
+      "artist": "Jassa Dhillon feat. Mxrci",
+      "has_synced": false,
+      "path": "select/10_Trouble_Maker_Jassa_Dhillon_feat._Mxrci.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Trouble Maker",
+      "artist": "Jassa Dhillon, MXRCI",
+      "has_synced": false,
+      "path": "select/11_Trouble_Maker_Jassa_Dhillon,_MXRCI.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Trouble Maker",
+      "artist": "Rema",
+      "has_synced": false,
+      "path": "select/12_Trouble_Maker_Rema.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Trouble Maker",
+      "artist": "Rema",
+      "has_synced": true,
+      "path": "select/13_Trouble_Maker_Rema.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Trouble Maker (TROUBLE MAKER)",
+      "artist": "Trouble Maker",
+      "has_synced": true,
+      "path": "select/14_Trouble_Maker_(TROUBLE_MAKER)_Trouble_Maker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Trouble Maker",
+      "artist": "Rema",
+      "has_synced": true,
+      "path": "select/15_Trouble_Maker_Rema.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Knew You Were Trouble.",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/16_I_Knew_You_Were_Trouble._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Trouble With A Heartbreak",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/17_Trouble_With_A_Heartbreak_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Trouble With A Heartbreak",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/18_Trouble_With_A_Heartbreak_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Are We In Trouble Now",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/19_Are_We_In_Trouble_Now_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Are We in Trouble Now (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/20_Are_We_in_Trouble_Now_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Heart Trouble",
+      "artist": "Steve Wariner",
+      "has_synced": false,
+      "path": "select/21_Heart_Trouble_Steve_Wariner.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Heart Trouble (Album Version)",
+      "artist": "Steve Wariner",
+      "has_synced": false,
+      "path": "select/22_Heart_Trouble_(Album_Version)_Steve_Wariner.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Hello Trouble",
+      "artist": "Desert Rose Band",
+      "has_synced": true,
+      "path": "select/23_Hello_Trouble_Desert_Rose_Band.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Some Kind Of Trouble",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/24_Some_Kind_Of_Trouble_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Some Kind Of Trouble",
+      "artist": "Tanya Tucker",
+      "has_synced": false,
+      "path": "select/25_Some_Kind_Of_Trouble_Tanya_Tucker.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Someone Else's Trouble Now",
+      "artist": "Highway 101",
+      "has_synced": true,
+      "path": "select/26_Someone_Else's_Trouble_Now_Highway_101.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Someone Else's Trouble Now (Album Version)",
+      "artist": "Highway 101",
+      "has_synced": true,
+      "path": "select/27_Someone_Else's_Trouble_Now_(Album_Version)_Highway_101.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "There's Your Trouble",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/28_There's_Your_Trouble_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "There's Your Trouble (Album Version)",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/29_There's_Your_Trouble_(Album_Version)_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Trouble In Paradise",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/30_Trouble_In_Paradise_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Trouble In Paradise (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/31_Trouble_In_Paradise_(Single_Version)_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Trouble Town",
+      "artist": "Jordan Davis",
+      "has_synced": true,
+      "path": "select/32_Trouble_Town_Jordan_Davis.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Trouble",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/33_Trouble_Coldplay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trouble Maker",
+      "artist": "Trouble Maker",
+      "has_synced": false,
+      "path": "select/pl_01_Trouble_Maker_Trouble_Maker.txt"
+    }
+  ]
+}
